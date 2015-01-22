@@ -1,8 +1,9 @@
  <html>
   <title>
-  the test project
+  *My musical rules*
   </title>
    <body>
+  
    **i always love to play music.**
    
    **these were the rules that i lived on**
